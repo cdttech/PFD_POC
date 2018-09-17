@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/loaddata_0.1</module>
+    <module>jobs/process/compliance_0.1</module>
   </modules>
   <properties>
     <talend.project.name>PFD_POC</talend.project.name>
